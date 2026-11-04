@@ -15,3 +15,5 @@ Approach:
 4. Changed rest of categorical columns into numbers using onehot encoder.
 5. Made sure test and train data were transformed in same manner and then used regression to come up with a "submissions.csv" that contains all predicted house prices.
 
+Outcome:
+Our model, after submitting to Kaggle, got a public score of 61790.17178 and a private score of 28899.89616.
